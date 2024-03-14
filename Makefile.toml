@@ -4,7 +4,7 @@ workspace = false
 command = "dfx"
 args = ["generate"]
 dependencies = ["did"]
-
+ 
 [tasks.did]
 description = "generate .did"
 workspace = false
